@@ -12,6 +12,7 @@ Este projeto consiste em uma API desenvolvida com PHP e Laravel que automatiza a
 - **PHP**: Linguagem de programação utilizada para o desenvolvimento do backend.
 - **Laravel**: Framework PHP para construção de aplicações web e APIs.
 - **Google Sheets API**: Utilizada para integrar a saída de dados com planilhas online.
+- **Docker-Compose**: Utilizada para gerar Ambiente de Desenvolvimento
 
 ## Como Usar
 1. Clone o repositório usando `git clone [url-do-repositório]`.
